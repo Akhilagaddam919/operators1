@@ -1,0 +1,65 @@
+
+
+
+
+
+// var userInput prompt("Enter your age:"); 
+// if (userInput >= 18) {
+//     console.log("You are eligible to vote."); 
+// } else {
+//     console.log("You are not eligible to vote."); 
+// }
+
+
+
+
+
+// var  userInput =prompt("Enter your age:"); 
+// if (userInput>= 18) {
+//     console.log("You are eligible to vote."); 
+// } else {
+//     console.log("You are not eligible to vote."); 
+// }
+
+
+
+
+
+
+// var  userInput =prompt("Enter your age"); 
+// if (userInput>= 21) {
+//     console.log("You are eligible to marriage"); 
+// } else {
+//     console.log("You are not eligible to marriage"); 
+// }
+
+
+
+
+
+// var  userInput =prompt("Enter your percentage"); 
+// if (userInput>= 60) {
+//     console.log("You are eligible to senior citizen"); 
+// } else {
+//     console.log("You are not eligible to senior citizen"); 
+// }
+
+
+
+
+// var  userInput =prompt("Enter your age"); 
+// if (userInput>= 18) {
+//     console.log("You are eligible to driving license"); 
+// } else {
+//     console.log("You are not eligible to driving license"); 
+// }
+
+
+
+
+var  userInput =prompt("Enter your percentage"); 
+if (userInput>= 75) {
+    console.log("You are eligible to exam"); 
+ } else {
+     console.log("You are not eligible to exam"); 
+}
